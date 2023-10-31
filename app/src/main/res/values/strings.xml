@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculador_de_gorjetas</string>
+    <string name="valor_da_gorjeta">Valor da gorjeta: %1$s</string>
+</resources>
